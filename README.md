@@ -33,4 +33,4 @@ This application allows users to:
 5. Open `http://localhost:5173` in your browser
 
 ### Design
-![](https://github.com/AbrarKhalil26/suggested-extensions-app/blob/main/public/design/design.jpeg)
+![](https://github.com/AbrarKhalil26/suggested-extensions-app/blob/main/public/design/design.png)
